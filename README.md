@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hossein_moazami" target="blank"><img src="https://img.shields.io/twitter/follow/hossein_moazami?logo=twitter&style=for-the-badge" alt="hossein_moazami" /></a> </p>
 
-- 🔭 I’m currently working on **HPH corporation group**
+- 🔭 I’m currently working in **HPH corporation group**
 
 - 🌱 I’m currently learning **AWS, K8s and Go**
 
