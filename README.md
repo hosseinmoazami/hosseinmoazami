@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hosseinmoazami" alt="hosseinmoazami" /></a> </p>
 
+<p align="left"> <a href="https://www.linkedin.com/in/hossein-moazami" target="blank"><img src="https://img.shields.io/twitter/follow/hossein_moazami?logo=linkedin&style=for-the-badge" alt="hossein_moazami" /></a> </p>
 <p align="left"> <a href="https://twitter.com/hossein_moazami" target="blank"><img src="https://img.shields.io/twitter/follow/hossein_moazami?logo=twitter&style=for-the-badge" alt="hossein_moazami" /></a> </p>
 
 - 🔭 I’m currently working in **HPH corporation group**
