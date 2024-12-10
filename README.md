@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hossein</h1>
 
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim&theme=dark)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=hosseinmoazami&theme=dark)
 
 
 <h3 align="left">Connect with me:</h3>
